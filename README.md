@@ -9,3 +9,8 @@ This is the logo for the open source [BlueSCSI project](https://github.com/erich
 "BlueSCSI" is registered to [Eric Helgesen](https://github.com/erichelgeson) and this logo is shared under the Creative Commons [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 This logo may not be used for commercial or retail purposes without permission from Eric Helgesen.
+
+## Usage
+The BlueSCSI logo is optimized for smaller print (e.g., circuit boards). It is not necessary to retain the white stroke around the black text when the logo is the only visual item.
+
+The white stroke around the black text should be used to visually seperate the BlueSCSI logo when it is present with other visual designs.
