@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Stephen-Arsenault/BlueSCSI-Logo/main/BlueSCSI-HiRes.png)
+![https://www.behance.net/gallery/66209103/Heartbit-Typeface Heartbit by Christopher Ngalu](https://raw.githubusercontent.com/Stephen-Arsenault/BlueSCSI-Logo/main/BlueSCSI-HiRes.png)
 
 # BlueSCSI Logo
 This is the logo for the open source [BlueSCSI project](https://github.com/erichelgeson/BlueSCSI). 
