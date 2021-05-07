@@ -1,4 +1,4 @@
-![ ](https://raw.githubusercontent.com/Stephen-Arsenault/BlueSCSI-Logo/main/BlueSCSI-HiRes.png | width=300)
+![](https://raw.githubusercontent.com/Stephen-Arsenault/BlueSCSI-Logo/main/BlueSCSI-HiRes.png | width=100)
 
 # BlueSCSI Logo
 This is the logo for the open source [BlueSCSI project](https://github.com/erichelgeson/BlueSCSI). 
